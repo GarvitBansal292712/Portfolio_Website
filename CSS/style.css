@@ -1,0 +1,31 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1.2rem;
+}
+/* -------------------------------------Navbar styling started------------------------------------------------ */
+nav.navbar {
+  background-color: rgb(20, 213, 220);
+  color: #000000;
+  font-weight: 500;
+}
+ul {
+  margin: 0 40px 0 0;
+}
+li.nav-item {
+  margin: 0px 10px 0px 10px;
+  padding: 5px;
+}
+a.nav-link{
+  color: whitesmoke;
+}
+li.nav-item:hover {
+  border-bottom: solid #000;
+  margin: 2px 10px 2px 10px;
+}
+/* -------------------------------------Navbar styling Ended------------------------------------------------ */
+
+a.text-white {
+  text-decoration: none;
+}
